@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -80,6 +80,8 @@ public: \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
+
+template<> CODENAME_GEOGRAPHY_API UClass* StaticClass<class Acodename_geographyPlayerController>();
 
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID codename_geography_Source_codename_geography_codename_geographyPlayerController_h

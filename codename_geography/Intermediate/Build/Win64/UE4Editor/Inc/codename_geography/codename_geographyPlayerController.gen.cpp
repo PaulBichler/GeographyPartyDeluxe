@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -50,13 +50,17 @@ void EmptyLinkFunctionForGeneratedCodecodename_geographyPlayerController() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_Acodename_geographyPlayerController_Statics::ClassParams = {
 		&Acodename_geographyPlayerController::StaticClass,
-		DependentSingletons, ARRAY_COUNT(DependentSingletons),
-		0x008002A4u,
-		nullptr, 0,
-		nullptr, 0,
 		"Game",
 		&StaticCppClassTypeInfo,
-		nullptr, 0,
+		DependentSingletons,
+		nullptr,
+		nullptr,
+		nullptr,
+		ARRAY_COUNT(DependentSingletons),
+		0,
+		0,
+		0,
+		0x008002A4u,
 		METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyPlayerController_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyPlayerController_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_Acodename_geographyPlayerController()
@@ -68,7 +72,11 @@ void EmptyLinkFunctionForGeneratedCodecodename_geographyPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(Acodename_geographyPlayerController, 3589035329);
+	IMPLEMENT_CLASS(Acodename_geographyPlayerController, 4127639679);
+	template<> CODENAME_GEOGRAPHY_API UClass* StaticClass<Acodename_geographyPlayerController>()
+	{
+		return Acodename_geographyPlayerController::StaticClass();
+	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_Acodename_geographyPlayerController(Z_Construct_UClass_Acodename_geographyPlayerController, &Acodename_geographyPlayerController::StaticClass, TEXT("/Script/codename_geography"), TEXT("Acodename_geographyPlayerController"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(Acodename_geographyPlayerController);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

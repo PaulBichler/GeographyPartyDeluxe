@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\codename_geography.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D33CF77B-DD34-49ED-B21D-DBD1765F9E21}</UniqueIdentifier>
+      <UniqueIdentifier>{2E9ED7BB-BBF6-40FC-905B-D23A449E5287}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\codename_geography.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{BECF13CA-1C5A-4CD8-8D96-2946BF4313D5}</UniqueIdentifier>
+      <UniqueIdentifier>{E9341EC6-3FA7-4446-8669-ADEEDEDFF93D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\codename_geography">
-      <UniqueIdentifier>{716A637F-46F2-4906-8CD0-AB0032569052}</UniqueIdentifier>
+      <UniqueIdentifier>{71E41531-F745-4EB5-99FF-6023BE348B01}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\codename_geography\codename_geography.Build.cs">
       <Filter>Source\codename_geography</Filter>

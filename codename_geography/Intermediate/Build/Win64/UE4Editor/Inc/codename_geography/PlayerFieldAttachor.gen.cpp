@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -51,13 +51,17 @@ void EmptyLinkFunctionForGeneratedCodePlayerFieldAttachor() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_UPlayerFieldAttachor_Statics::ClassParams = {
 		&UPlayerFieldAttachor::StaticClass,
-		DependentSingletons, ARRAY_COUNT(DependentSingletons),
-		0x00B000A4u,
-		nullptr, 0,
-		nullptr, 0,
 		"Engine",
 		&StaticCppClassTypeInfo,
-		nullptr, 0,
+		DependentSingletons,
+		nullptr,
+		nullptr,
+		nullptr,
+		ARRAY_COUNT(DependentSingletons),
+		0,
+		0,
+		0,
+		0x00B000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UPlayerFieldAttachor_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_UPlayerFieldAttachor_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_UPlayerFieldAttachor()
@@ -69,7 +73,11 @@ void EmptyLinkFunctionForGeneratedCodePlayerFieldAttachor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPlayerFieldAttachor, 1038109392);
+	IMPLEMENT_CLASS(UPlayerFieldAttachor, 2020818250);
+	template<> CODENAME_GEOGRAPHY_API UClass* StaticClass<UPlayerFieldAttachor>()
+	{
+		return UPlayerFieldAttachor::StaticClass();
+	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UPlayerFieldAttachor(Z_Construct_UClass_UPlayerFieldAttachor, &UPlayerFieldAttachor::StaticClass, TEXT("/Script/codename_geography"), TEXT("UPlayerFieldAttachor"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPlayerFieldAttachor);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -67,32 +67,35 @@ void EmptyLinkFunctionForGeneratedCodecodename_geographyCharacter() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** A decal that projects to the cursor location. */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "codename_geographyCharacter.h" },
 		{ "ToolTip", "A decal that projects to the cursor location." },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld = { UE4CodeGen_Private::EPropertyClass::Object, "CursorToWorld", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x00400000000a001d, 1, nullptr, STRUCT_OFFSET(Acodename_geographyCharacter, CursorToWorld), Z_Construct_UClass_UDecalComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld = { "CursorToWorld", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Acodename_geographyCharacter, CursorToWorld), Z_Construct_UClass_UDecalComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Camera boom positioning the camera above the character */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "codename_geographyCharacter.h" },
 		{ "ToolTip", "Camera boom positioning the camera above the character" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom = { UE4CodeGen_Private::EPropertyClass::Object, "CameraBoom", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x00400000000a001d, 1, nullptr, STRUCT_OFFSET(Acodename_geographyCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Acodename_geographyCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+		{ "Comment", "/** Top down camera */" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "codename_geographyCharacter.h" },
 		{ "ToolTip", "Top down camera" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent = { UE4CodeGen_Private::EPropertyClass::Object, "TopDownCameraComponent", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x00400000000a001d, 1, nullptr, STRUCT_OFFSET(Acodename_geographyCharacter, TopDownCameraComponent), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent = { "TopDownCameraComponent", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Acodename_geographyCharacter, TopDownCameraComponent), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent_MetaData, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_TopDownCameraComponent_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_Acodename_geographyCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CursorToWorld,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Acodename_geographyCharacter_Statics::NewProp_CameraBoom,
@@ -103,13 +106,17 @@ void EmptyLinkFunctionForGeneratedCodecodename_geographyCharacter() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_Acodename_geographyCharacter_Statics::ClassParams = {
 		&Acodename_geographyCharacter::StaticClass,
-		DependentSingletons, ARRAY_COUNT(DependentSingletons),
-		0x008000A0u,
-		nullptr, 0,
-		Z_Construct_UClass_Acodename_geographyCharacter_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::PropPointers),
 		nullptr,
 		&StaticCppClassTypeInfo,
-		nullptr, 0,
+		DependentSingletons,
+		nullptr,
+		Z_Construct_UClass_Acodename_geographyCharacter_Statics::PropPointers,
+		nullptr,
+		ARRAY_COUNT(DependentSingletons),
+		0,
+		ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::PropPointers),
+		0,
+		0x008000A0u,
 		METADATA_PARAMS(Z_Construct_UClass_Acodename_geographyCharacter_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_Acodename_geographyCharacter_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_Acodename_geographyCharacter()
@@ -121,7 +128,11 @@ void EmptyLinkFunctionForGeneratedCodecodename_geographyCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(Acodename_geographyCharacter, 230713484);
+	IMPLEMENT_CLASS(Acodename_geographyCharacter, 2442828682);
+	template<> CODENAME_GEOGRAPHY_API UClass* StaticClass<Acodename_geographyCharacter>()
+	{
+		return Acodename_geographyCharacter::StaticClass();
+	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_Acodename_geographyCharacter(Z_Construct_UClass_Acodename_geographyCharacter, &Acodename_geographyCharacter::StaticClass, TEXT("/Script/codename_geography"), TEXT("Acodename_geographyCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(Acodename_geographyCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
