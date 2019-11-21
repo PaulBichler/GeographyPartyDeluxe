@@ -1,3 +1,0 @@
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Source\codename_geography\codename_geography.Build.cs
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Source\codename_geography.Target.cs
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Source\codename_geographyEditor.Target.cs

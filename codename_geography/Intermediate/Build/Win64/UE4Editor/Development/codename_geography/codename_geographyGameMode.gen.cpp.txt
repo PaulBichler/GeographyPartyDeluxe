@@ -1,9 +1,0 @@
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Intermediate\Build\Win64\UE4Editor\Development\codename_geography\Definitions.codename_geography.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Source\codename_geography/codename_geographyGameMode.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Intermediate\Build\Win64\UE4Editor\Inc\codename_geography\codename_geographyGameMode.generated.h

@@ -1,2 +1,0 @@
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Intermediate\Build\Win64\UE4Editor\Development\codename_geography\Definitions.codename_geography.h
-Z:\BTS\OneDrive - 365education\GameJams\Powerweek2019\github_project\repo\codename_geography\Source\codename_geography\codename_geography.h
